@@ -1,3 +1,4 @@
+==================
 Livraria e eventos
 ==================
 
@@ -8,6 +9,7 @@ Livraria e eventos
 A Casa Plana é um conjunto de três unidades de negócio
 com diretorias distintas. 
  
+-----------------
 A Hedra e a Plana
 -----------------
 
@@ -28,7 +30,7 @@ As principais operações são:
 +-----------------+-------------+
 | Negociação      | Resultados  |
 +-----------------+-------------+
-| Infra-estrutura | Comumicação |
+| Infraestrutura | Comumicação |
 +-----------------+-------------+
 
 .. Important::
@@ -36,8 +38,7 @@ As principais operações são:
 	e as decisões ou divergências devem ser discutidas em conselho e não administrativamente. 
 
 Do fluxo de atividades e responsabilidades dos eventos
-------------------------------------------------------
-
+======================================================
 
 
 Um evento precisa ser:
@@ -62,14 +63,56 @@ Tais tarefas são da responsabilidade do comercial.
 .. image:: ./bpmn/eventos.png
 
 
-### Proposta de eventos
+Em 
 
-### Divulgação
+Proposta de eventos
+-------------------
 
-### Execução
+Os eventos podem ser propostos por todos. Eventos que ferem a 
+identidade da Plana serão recusados. 
 
-### Repercussão
+Nem todos os eventos devem ser divulgados. 
 
+É necessário preencher planilha de resultados do 
+evento, especificando quantos livros do lançamento foram vendidos
+e quem foi responsável por isso. 
+
+.. _Eventos:: www.uol.com.br 
+
+
+
+Divulgação
+----------
+
+**Responsáveis**: coordenador de eventos; gerente de marketing; Bia Bittencourt
+
+A divulgação e o plano de mídia devem ter orçamentos definidos previamente pela equipe Marketing da Hedra. 
+Isto deve estar contido em uma planilha de gastos e de busca de resultados. 
+
+As peças de divulgação são aprovadas pela Bia Bittencourt. 
+
+
+Execução
+--------
+
+**Responsáveis**: coordenador de eventos
+
+A execução inclui tudo que é necessário para o cerimonial do evento. 
+Todo evento é responsabilidade de apenas uma pessoa, designada previamente. 
+
+O cronograma deve ser apresentado semanalmente à equipe comercial, 
+segundo .. _calendário de reuniões:: www.uol.com.br
+
+O gerente de eventos deve colher junto ao caixa as informações de vendas sobre o 
+evento e preencher na .. _planilha de controle:: https://docs.google.com/spreadsheets/d/1Ixkt2ObKy0oKJKpnteWgw5TEGqtxYKPoYNNBeWEZnCs/edit?usp=sharing  
+
+Repercussão e pós-produção
+--------------------------
+
+
+
+
+Esta é uma responsabilidade do ``caixa`` da livraria. 
 
 
 
@@ -84,5 +127,5 @@ Preparativos para eventos
 
 
 
-zz
+
 
