@@ -12,7 +12,7 @@ O que você vai encontrar
 
 
 
-Princiapis orientações
+Principais orientações
 ----------------------
 
       .. toctree::
