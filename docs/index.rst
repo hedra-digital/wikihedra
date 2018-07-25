@@ -14,11 +14,24 @@ Manual markdown: ``http://docutils.sourceforge.net/docs/user/rst/quickref.html``
 Block-code 
 ----------
 
-.. block-code :: tex
-  \textit{sdcsd} sdcsc 
-  \begin{comment}
-  sdcsd
-  \end{comment}
+.. raw:: latex
+
+   \begingroup
+   \sphinxsetup{%
+         verbatimwithframe=false,
+         VerbatimColor={named}{OldLace},
+         TitleColor={named}{DarkGoldenrod},
+         hintBorderColor={named}{LightCoral},
+         attentionborder=3pt,
+         attentionBorderColor={named}{Crimson},
+         attentionBgColor={named}{FloralWhite},
+         noteborder=2pt,
+         noteBorderColor={named}{Olive},
+         cautionborder=3pt,
+         cautionBorderColor={named}{Cyan},
+         cautionBgColor={named}{LightCyan}}
+   \relax
+
 
 Isto
 	ksdcsdcsd
