@@ -15,13 +15,18 @@ departamento comercial da Hedra. E as operações
 dos `Eventos` dependem dos processos do Marketing. 
 
 
-Básicamente:
 
-| Comercial       | Marketing   |
-|-----------------|-------------|
+As principais responsabilidades são:
+
++-----------------+-------------+
+| **Comercial**       | **Marketing**   |
++-----------------+-------------+
 | Logística       | Campanha    |
++-----------------+-------------+
 | Negociação      | Resultados  |
-| Infra-estrutura | Comumicação | 
++-----------------+-------------+
+| Infra-estrutura | Comumicação |
++-----------------+-------------+
 
 
 
