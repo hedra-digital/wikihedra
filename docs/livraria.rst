@@ -19,7 +19,7 @@ dos `Eventos` dependem dos processos do Marketing.
 As principais responsabilidades são:
 
 +-----------------+-------------+
-| **Comercial**       | **Marketing**   |
+| Comercial       | Marketing   |
 +-----------------+-------------+
 | Logística       | Campanha    |
 +-----------------+-------------+
