@@ -1,6 +1,8 @@
 Teste
 =====
 
+Manual markdown: ``http://docutils.sourceforge.net/docs/user/rst/quickref.html``
+
 * sdcsd 
 * sdcsd
 
@@ -10,6 +12,19 @@ Teste
   sdcsdcdscs
 
 
+.. code-block :: latex
+  \textit{sdcsd} sdcsc 
+  \begin{comment}
+  sdcsd
+  \end{comment}
+
+Isto
+	ksdcsdcsd
+	sdkjsndcs
+
+Aquilo
+	skdcsdcsdcs
+	sdcscs
 
 
 **Lorem** ipsum ``dolor`` sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
@@ -24,8 +39,5 @@ amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
 labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
 et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
 sanctus est Lorem ipsum dolor sit amet.
-
-.. code-block :: tex
-  \textit{sdcsd}
 
 
