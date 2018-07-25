@@ -11,7 +11,8 @@ Manual markdown: ``http://docutils.sourceforge.net/docs/user/rst/quickref.html``
   sdcsdcsdcd
   sdcsdcdscs
 
-## Block-code 
+Block-code 
+----------
 
 .. block-code :: tex
   \textit{sdcsd} sdcsc 
