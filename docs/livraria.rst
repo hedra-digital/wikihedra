@@ -13,13 +13,13 @@ A Hedra e a Plana
 
 A ``Livraria``  e os ``Eventos`` estão subordinados à Hedra. 
 
-As operações da ``Livraria`` dependem dos processos do 
+Isto significa que as operações da ``Livraria`` dependem dos processos do 
 departamento comercial da Hedra. E as operações 
 dos `Eventos` dependem dos processos do Marketing. 
 
 
 
-As principais responsabilidades são:
+As principais operações são:
 
 +-----------------+-------------+
 | Comercial       | Marketing   |
@@ -31,6 +31,9 @@ As principais responsabilidades são:
 | Infra-estrutura | Comumicação |
 +-----------------+-------------+
 
+.. Important::
+	A identidade da Casa Plana, porém, é uma responsabilidade da empresa Bia Bittencourt ME
+	e as decisões ou divergências devem ser discutidas em conselho e não administrativamente. 
 
 Do fluxo de atividades e responsabilidades dos eventos
 ------------------------------------------------------
