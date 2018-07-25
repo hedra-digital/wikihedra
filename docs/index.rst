@@ -3,8 +3,8 @@ Teste
 
       .. toctree::
          :maxdepth: 2
-         samples
-         cadastros
+         samples.rst
+         cadastros.rst
 
 
 
