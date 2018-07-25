@@ -48,22 +48,20 @@ Um evento precisa ser:
 * executado;
 * e, por fim, repercutir. 
 
-Estas são as tarefas sob a responsabilidade do Marketing, que deve 
+Estas são as operações sob a responsabilidade do Marketing, que deve 
 tocar a campanha, comunidar e apresentar resultados.
 
-É necessário ainda
+É necessário ainda que o comercial se responsabilize pelas seguintes operações:
 
 * negociação com os envolvidos no evento;
 * logística para recebimento dos livros;
 * e acerto financeiro.
 
-Tais tarefas são da responsabilidade do comercial. 
 
 
 .. image:: ./bpmn/eventos.png
 
-
-Em 
+ 
 
 Proposta de eventos
 -------------------
