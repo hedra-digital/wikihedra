@@ -1,6 +1,9 @@
 Livraria e eventos
 ==================
 
+
+.. image:: ./bpmn/UN_livraria.png
+
 Recebimento de mercadorias
 --------------------------
 
