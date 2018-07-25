@@ -1,6 +1,10 @@
 Teste
 =====
 
+.. toctree::
+   cadastros.rst
+   samples.rst
+
 Manual markdown: ``http://docutils.sourceforge.net/docs/user/rst/quickref.html``
 
 * sdcsd 
