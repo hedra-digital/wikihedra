@@ -48,7 +48,7 @@ Um evento precisa ser:
 * executado;
 * e, por fim, repercutir. 
 
-Estas são as operações sob a responsabilidade do Marketing, que deve 
+Estas são as operações sob a responsabilidade do Marketing da Hedra, que deve 
 tocar a campanha, comunidar e apresentar resultados.
 
 É necessário ainda que o comercial se responsabilize pelas seguintes operações:
@@ -58,7 +58,6 @@ tocar a campanha, comunidar e apresentar resultados.
 * e acerto financeiro.
 
 
-
 .. image:: ./bpmn/eventos.png
 
  
@@ -66,16 +65,21 @@ tocar a campanha, comunidar e apresentar resultados.
 Proposta de eventos
 -------------------
 
+**Responsáveis**: coordenador de eventos
+
 Os eventos podem ser propostos por todos. Eventos que ferem a 
 identidade da Plana serão recusados. 
 
-Nem todos os eventos devem ser divulgados. 
+Isto é feito pelo board do trelo `Eventos`_.
 
-É necessário preencher planilha de resultados do 
-evento, especificando quantos livros do lançamento foram vendidos
-e quem foi responsável por isso. 
+.. _Evendos: https://trello.com/b/8SLdxvPT/plana-eventos
 
-.. _Eventos:: www.uol.com.br 
+O coordenador de eventos é responsável pelo board do Trello e pelo acompanhamento dos prazos. 
+
+.. Important::
+	Nem todos os eventos devem ser divulgados. 
+
+
 
 
 
@@ -87,7 +91,8 @@ Divulgação
 A divulgação e o plano de mídia devem ter orçamentos definidos previamente pela equipe Marketing da Hedra. 
 Isto deve estar contido em uma planilha de gastos e de busca de resultados. 
 
-As peças de divulgação são aprovadas pela Bia Bittencourt. 
+.. Important::
+	As peças de divulgação são aprovadas pela Bia Bittencourt. 
 
 
 Execução
@@ -96,26 +101,52 @@ Execução
 **Responsáveis**: coordenador de eventos
 
 A execução inclui tudo que é necessário para o cerimonial do evento. 
+
 Todo evento é responsabilidade de apenas uma pessoa, designada previamente. 
+A princípio esta pessoa é o coordenador de eventos. 
 
 O cronograma deve ser apresentado semanalmente à equipe comercial, 
-segundo .. _calendário de reuniões:: www.uol.com.br
+segundo o :ref:`calendário de reuniões`.
 
-O gerente de eventos deve colher junto ao caixa as informações de vendas sobre o 
-evento e preencher na .. _planilha de controle:: https://docs.google.com/spreadsheets/d/1Ixkt2ObKy0oKJKpnteWgw5TEGqtxYKPoYNNBeWEZnCs/edit?usp=sharing  
+ 
+.. Important::
+	É necessário que o coordenador de eventos preencha a `planilha de resultados de eventos`_
+	evento, especificando quantos livros do lançamento foram vendidos
+	e quem foi responsável por isso. 
+
+.. _planilha de resultados de eventos: https://docs.google.com/spreadsheets/d/1Ixkt2ObKy0oKJKpnteWgw5TEGqtxYKPoYNNBeWEZnCs/edit?usp=sharing
+
 
 Repercussão e pós-produção
 --------------------------
 
+Após os eventos, o material de divulgação deve ser arquivado.
+Este material deve estar acessível para o público por algum canal.
+
+.. Note:: 
+	Este procedimento precisa ser discutido. 
+ 	
 
 
 
-Esta é uma responsabilidade do ``caixa`` da livraria. 
 
 
+Cadastros, pedido e recebimento de mercadorias
+-----------------------------------
 
-Recebimento de mercadorias
---------------------------
+**Etapas de cadastro**:
+
+* :ref:`Cadastro de fornecedores`
+* :ref:`Cadastro de produtos`
+* :ref:`Pedidos de mercadoria` (PO)
+
+Todas essas tarefas devem ser feitas pelo Odoo.
+
+.. Important::
+	A comunicação com os fornecedores ou com o pessoal interno deve ser 
+	feita pelo Odoo, diretamente nos documentos específicos. 
+
+
 
 Acerto de mercadoria
 --------------------

@@ -2,6 +2,7 @@
 Calendário de reuniões 
 ======================
 
+.. _calendário de reuniões:
 
 Pautas fixas ficam no Odoo.
 https://goo.gl/cMktim

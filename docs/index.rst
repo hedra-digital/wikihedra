@@ -32,6 +32,8 @@ Outras orientações
          :maxdepth: 2
 
          samples.rst
+         trello.rs
+         glossary.rst
 
 
 
