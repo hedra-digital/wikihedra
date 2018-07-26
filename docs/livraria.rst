@@ -3,23 +3,22 @@ Livraria e eventos
 ==================
 
 
-.. image:: ./bpmn/UN_livraria.png
 
 
 A Casa Plana é um conjunto de três unidades de negócio
 com diretorias distintas. 
  
------------------
-A Hedra e a Plana
------------------
+-----------------------------
+Do acordo entre Hedra e Plana
+-----------------------------
+
+.. image:: ./bpmn/UN_livraria.png
 
 A ``Livraria``  e os ``Eventos`` estão subordinados à Hedra. 
 
 Isto significa que as operações da ``Livraria`` dependem dos processos do 
 departamento comercial da Hedra. E as operações 
 dos `Eventos` dependem dos processos do Marketing. 
-
-
 
 As principais operações são:
 
@@ -30,7 +29,7 @@ As principais operações são:
 +-----------------+-------------+
 | Negociação      | Resultados  |
 +-----------------+-------------+
-| Infraestrutura | Comumicação |
+| Infraestrutura  | Comumicação |
 +-----------------+-------------+
 
 .. Important::
