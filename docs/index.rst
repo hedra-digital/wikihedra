@@ -23,6 +23,7 @@ Principais orientações
          editorial.rst
          comerical.rst
          grafica.rst
+         meetings.rst
 
 Outras orientações
 ------------------
@@ -31,5 +32,8 @@ Outras orientações
          :maxdepth: 2
 
          samples.rst
+
+
+
 
 
