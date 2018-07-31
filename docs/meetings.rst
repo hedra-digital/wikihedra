@@ -64,7 +64,12 @@ Marketing:
 * Campanhas em curso
  * Apresentação do conteúdo
  * Resultados 
-  | Campanha | Valor gasto | Valor levantado |
+ 
+ +----------+-------------+-----------------+
+ | Campanha | Valor gasto | Valor levantado |
+ +----------+-------------+-----------------+
+
+
 * Campanhas futuras
  * Informe do editorial
  * Informe do comercial
