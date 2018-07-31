@@ -58,7 +58,9 @@ Produção
 * Imagem de capa (não esquecer de colocar crédito de imaem depois dentro do livro)
 * Nome do capista nos créditos
 * Isbn (Mandar imagem EPS): conferir com planilha no google drive em goo.gl/QYVTex
+
 Se for bolso:
+
 * Rubricas de capa devem ter gênero: "Autor" "Autora"
 * Seguir modelo _Organização e tradução do grego_
 * Verificar se obra não faz parte de subcoleção
@@ -71,6 +73,7 @@ Se for bolso:
 Ex: \newcommand{\<COMANDO>}{<CONTEÚDO>} em fichatecnica.sty (na pasta do livros)
 
 Lista de comandos:
+
 * \titulo  				
 * \subtit  				
 * \autor  				
@@ -119,15 +122,15 @@ Lista de comandos:
 
 ### Cadastros
 
- * Internos
+* Internos
 	* Odoo (@jorgesallum)
 	* Site (@anaclara)
- * Indexadores (metadados)
+* Indexadores (metadados)
 	* Mercado editorial (@anaclara)
 	* Metabooks @(jorgesallum)
- * Integradores (distribuição, PoD, logística, pagamentos)
+* Integradores (distribuição, PoD, logística, pagamentos)
 	* Meta (@jorgesallum)
 	* Bookwire (@rodney)
- * Repositórios ("netflix")
+* Repositórios ("netflix")
 	* Nuvem de livros (@jorgesallum)
 	* Árvore de livros (@luiza)
