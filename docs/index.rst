@@ -36,6 +36,17 @@ Outras orientações
          glossary.rst
 
 
+Ramais telefônicos
+------------------
+
+
+* Casa Plana: 204
+* Financeiro: 203
+* Gráfica: 210
+* Gráfica/PCP: 206
+* Editorial/Jorge: 202
+* Comercial: 205
+
 
 
 
