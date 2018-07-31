@@ -28,28 +28,28 @@ Pautas fixas
 Eventos
 -------
 
-Eventos (programação)
+* Eventos (programação)
   https://trello.com/b/8SLdxvPT/plana-eventos
-Linhas gerais e sugestão de pauta
-Marketing (report)
-Infraestrutura
-Eventos externos (participações em feiras)
-Procedimentos (discussão, descrição, implantação, aprovação)
-Ad Hoc
-Informes  (*)
-Tarefas   (>)
+* Linhas gerais e sugestão de pauta
+* Marketing (report)
+* Infraestrutura
+* Eventos externos (participações em feiras)
+* Procedimentos (discussão, descrição, implantação, aprovação)
+* Ad Hoc
+* Informes  (*)
+* Tarefas   (>)
 
 
 Livraria
 --------
 
-Vendas
-Estrutura (ainda)
-Acertos & acervo
-Café
-Escala de funcionários
-Procedimentos (discussão, descrição, implantação, aprovação)
-Ad Hoc
+* Vendas
+* Estrutura (ainda)
+* Acertos & acervo
+* Café
+* Escala de funcionários
+* Procedimentos (discussão, descrição, implantação, aprovação)
+* Ad Hoc
 
 
 Marketing
@@ -58,13 +58,13 @@ Marketing
 Cursos
 ------
 
-Vendas
-Infraestrutura necessária & calendário
-Divulgação
-Material de divulgação
-Ad Hoc
-Informes  (*)
-Tarefas   (>)
+* Vendas
+* Infraestrutura necessária & calendário
+* Divulgação
+* Material de divulgação
+* Ad Hoc
+* Informes  (*)
+* Tarefas   (>)
 
 
 Editorial
