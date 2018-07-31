@@ -29,7 +29,6 @@ Produção
 
 -----------------------------------------------
 
-
 ### Diagramação 
 
 * Definir formato
@@ -39,9 +38,13 @@ Produção
 * Padronizações: Partes, Capítulos e sections; versaletes; palavras hifenizadas; travessão, meio-traço e traço; indentação; footnotes; quotes; links; bibliografia
 * Ajustes finos: geral
 
+-----------------------------------------------
+
 ### Revisão
-... @luiza
+
 * Viúvas e orfãs
+
+-----------------------------------------------
 
 ### Capa
 
@@ -61,6 +64,7 @@ Se for bolso:
 * Verificar se obra não faz parte de subcoleção
 * Verifcar no miolo se constam resumos do autor, da obra e das pessoas envolvidas. Se houver subcoleção, verificar se existe também texto sobre.
 
+-----------------------------------------------
 
 ### Página de crédito (fichatecnica.sty)
 
@@ -99,6 +103,8 @@ Lista de comandos:
 * \papelmiolo  				
 * \gramaturamiolo  				
 
+-----------------------------------------------
+
 ### Fechamento
 
 * verificar se código ID no final do livro bate com a versão do github
@@ -108,6 +114,8 @@ Lista de comandos:
 * arquivos estão em github?
 * checklist de página de crédito
 * Criar MO de lançamento 
+
+-----------------------------------------------
 
 ### Cadastros
 
