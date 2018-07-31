@@ -26,6 +26,17 @@ Calendário
 Pautas fixas
 ------------
 
+Instruções:
+
+* Anotar participanges
+* Leitura da pauta anterior
+* Recolher pauta extra
+* Anotação
+  * Informes  (*)
+  * Tarefas   (>)
+  Ex: [assunto] P. > Hiihnum lupsum 
+* Discussão de processos
+
 Eventos:
 
 * Eventos (programação)
@@ -35,9 +46,7 @@ Eventos:
 * Infraestrutura
 * Eventos externos (participações em feiras)
 * Procedimentos (discussão, descrição, implantação, aprovação)
-* Ad Hoc
-* Informes  (*)
-* Tarefas   (>)
+
 
 
 Livraria:
@@ -52,10 +61,14 @@ Livraria:
 
 
 Marketing:
-* Vendas do mês [campanha]
-* Posts do mês [campanha]
-* Follow-ups
-* Processos (wiki)
+* Campanhas em curso
+ * Apresentação do conteúdo
+ * Resultados 
+  | Campanha | Valor gasto | Valor levantado |
+* Campanhas futuras
+ * Informe do editorial
+ * Informe do comercial
+
 
 
 
