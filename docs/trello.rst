@@ -10,4 +10,4 @@ Boards do Trello ativos
 
 
 .. _Redes sociais: https://trello.com/b/0BiWPSNh/plana-redes-sociais
-.. _Evendos: https://trello.com/b/8SLdxvPT/plana-eventos
+.. _Eventos: https://trello.com/b/8SLdxvPT/plana-eventos
