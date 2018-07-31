@@ -27,7 +27,6 @@ Pautas fixas
 ============
 
 :Eventos:
-
 * Eventos (programação)
   https://trello.com/b/8SLdxvPT/plana-eventos
 * Linhas gerais e sugestão de pauta
@@ -41,7 +40,6 @@ Pautas fixas
 
 
 :Livraria:
-
 * Vendas
 * Estrutura (ainda)
 * Acertos & acervo
@@ -55,7 +53,6 @@ Pautas fixas
 
 
 :Cursos:
-
 * Vendas
 * Infraestrutura necessária & calendário
 * Divulgação
@@ -66,7 +63,6 @@ Pautas fixas
 
 
 :Editorial:
-
 
 :Comercial:
 
