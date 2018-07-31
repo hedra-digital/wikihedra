@@ -24,7 +24,7 @@ Calendário
 
 
 Pautas fixas
-============
+------------
 
 Eventos:
 
@@ -52,6 +52,11 @@ Livraria:
 
 
 Marketing:
+* Vendas do mês [campanha]
+* Posts do mês [campanha]
+* Follow-ups
+* Processos (wiki)
+
 
 
 Cursos:
