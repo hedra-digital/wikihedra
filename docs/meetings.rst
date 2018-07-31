@@ -61,21 +61,13 @@ Livraria:
 
 
 Marketing:
+
 * Campanhas em curso
- * Apresentação do conteúdo
- * Resultados 
- 
- +----------+-------------+-----------------+
- | Campanha | Valor gasto | Valor levantado |
- +----------+-------------+-----------------+
-
-
+ - Apresentação do conteúdo https://trello.com/b/ZTAEKswM/mkt-grupo-hedra
+ - Resultados 
 * Campanhas futuras
- * Informe do editorial
- * Informe do comercial
-
-
-
+ - Informe do editorial
+ - Informe do comercial
 
 Cursos:
 
@@ -83,9 +75,6 @@ Cursos:
 * Infraestrutura necessária & calendário
 * Divulgação
 * Material de divulgação
-* Ad Hoc
-* Informes  (*)
-* Tarefas   (>)
 
 
 Editorial:
