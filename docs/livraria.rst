@@ -154,6 +154,13 @@ Preparativos para eventos
 -------------------------
 
 
+Acertos de consignação provisório
+---------------------------------
+
+* Cadastrar os clientes
+
+
+
 
 
 

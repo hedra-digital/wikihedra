@@ -21,7 +21,7 @@ Principais orientações
          livraria.rst
          financeiro.rst
          editorial.rst
-         comerical.rst
+         comercial.rst
          grafica.rst
          meetings.rst
 
