@@ -1,5 +1,5 @@
 ======================
-Calendário de reuniões 
+Reuniões 
 ======================
 
 .. _calendário de reuniões:
@@ -9,6 +9,8 @@ https://goo.gl/cMktim
 
 Duração de 30 min. 
 
+Calendário
+----------
 
 +-----+----------+-----------+--------+-----------+-------+
 |     | Segunda  | Terça     | Quarta | Quinta    | Sexta |
@@ -20,10 +22,11 @@ Duração de 30 min.
 | 17h | Livraria |           |        |           |       |
 +-----+----------+-----------+--------+-----------+-------+
 
-
+Pautas fixas
+============
 
 Eventos
-=======
+-------
 
 Eventos (programação)
   https://trello.com/b/8SLdxvPT/plana-eventos
@@ -38,7 +41,7 @@ Tarefas   (>)
 
 
 Livraria
-========
+--------
 
 Vendas
 Estrutura (ainda)
@@ -50,10 +53,10 @@ Ad Hoc
 
 
 Marketing
-=========
+---------
 
 Cursos
-======
+------
 
 Vendas
 Infraestrutura necessária & calendário
@@ -65,26 +68,15 @@ Tarefas   (>)
 
 
 Editorial
-=========
+---------
 
 
 Comercial
-=========
+---------
 
 EdLaB
-=====
+-----
 
 
 
 
-==================
-Ramais telefônicos
-==================
-
-
-* Casa Plana: 204
-* Financeiro: 203
-* Gráfica: 210
-* PCP: 206
-* Editorial/Jorge: 202
-* Comercial: 205
