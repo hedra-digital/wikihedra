@@ -26,8 +26,7 @@ Calendário
 Pautas fixas
 ============
 
-Eventos
--------
+:Eventos:
 
 * Eventos (programação)
   https://trello.com/b/8SLdxvPT/plana-eventos
@@ -41,8 +40,7 @@ Eventos
 * Tarefas   (>)
 
 
-Livraria
---------
+:Livraria:
 
 * Vendas
 * Estrutura (ainda)
@@ -53,11 +51,10 @@ Livraria
 * Ad Hoc
 
 
-Marketing
----------
+:Marketing:
 
-Cursos
-------
+
+:Cursos:
 
 * Vendas
 * Infraestrutura necessária & calendário
@@ -68,16 +65,9 @@ Cursos
 * Tarefas   (>)
 
 
-Editorial
----------
+:Editorial:
 
 
-Comercial
----------
+:Comercial:
 
-EdLaB
------
-
-
-
-
+:EdLaB:
