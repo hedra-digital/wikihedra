@@ -63,11 +63,11 @@ Livraria:
 Marketing:
 
 * Campanhas em curso
- - Apresentação do conteúdo https://trello.com/b/ZTAEKswM/mkt-grupo-hedra
- - Resultados 
+- Apresentação do conteúdo https://trello.com/b/ZTAEKswM/mkt-grupo-hedra
+- Resultados 
 * Campanhas futuras
- - Informe do editorial
- - Informe do comercial
+- Informe do editorial
+- Informe do comercial
 
 Cursos:
 
