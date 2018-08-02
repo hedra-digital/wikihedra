@@ -4,6 +4,10 @@
 Glossário
 =========
 
+Campanha comercial
+	Um conjunto de tarefas que envolve pessoas de um ou mais departamentos, que 
+	prevê um gasto e um resultado.
+
 Odoo
 	Software de gestão
 
