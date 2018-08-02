@@ -37,11 +37,15 @@ Instruções:
   Ex: [assunto] P. > Hiihnum lupsum 
 * Discussão de processos
 
+--------------------------------------
+
 Eventos:
 
+Participantes: @giselle, @suzana, @jorge
+
+* Linhas gerais e sugestão de pauta 
 * Eventos (programação)
   https://trello.com/b/8SLdxvPT/plana-eventos
-* Linhas gerais e sugestão de pauta
 * Marketing (report)
 * Infraestrutura
 * Eventos externos (participações em feiras)
