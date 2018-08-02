@@ -67,11 +67,12 @@ Livraria:
 Marketing:
 
 * Campanhas em curso
-- Apresentação do conteúdo https://trello.com/b/ZTAEKswM/mkt-grupo-hedra
-- Resultados 
-* Campanhas futuras
-- Informe do editorial
-- Informe do comercial
+    * Apresentação do conteúdo https://trello.com/b/ZTAEKswM/mkt-grupo-hedra
+    * Gastos | Resultados 
+* Campanhas futuras por trimestre
+* Propostas de ações de marketing para livrarias (com-mkt)
+* Rito de entrega de livros do editorial paro Marketing (edi-mkt)
+
 
 Cursos:
 
