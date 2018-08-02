@@ -22,7 +22,7 @@ Orientações para as editoras
          editorial.rst
          comercial.rst
          grafica.rst
-         meetings.rst
+
 
 Orientações para a Casa Plana
 -----------------------------
@@ -39,6 +39,7 @@ Outras orientações
       .. toctree::
          :maxdepth: 2
 
+         meetings.rst
          samples.rst
          trello.rs
          glossary.rst
@@ -47,13 +48,14 @@ Outras orientações
 Ramais telefônicos
 ------------------
 
-
 * Casa Plana: 204
 * Financeiro: 203
 * Gráfica: 210
 * Gráfica/PCP: 206
 * Editorial/Jorge: 202
 * Comercial: 205
+
+
 
 
 
