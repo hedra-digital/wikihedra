@@ -73,7 +73,7 @@ As propostas são feitas formalmente no board do trelo `Eventos`_.
 	Eventos que ferem a  identidade da Plana serão recusados. 
 
 
-.. _Evendos: https://trello.com/b/8SLdxvPT/plana-eventos
+.. _Eventos: https://trello.com/b/8SLdxvPT/plana-eventos
 
 O coordenador de eventos é responsável pelo board do Trello e pelo acompanhamento dos prazos. 
 
@@ -87,7 +87,7 @@ O coordenador de eventos é responsável pelo board do Trello e pelo acompanhame
 Divulgação
 ----------
 
-**Responsáveis**: coordenador de eventos; gerente de marketing; Bia Bittencourt
+**Responsáveis**: gerente de marketing (@Daniel); @Bia
 
 A divulgação e o plano de mídia devem ter orçamentos definidos previamente pela equipe Marketing da Hedra. 
 Isto deve estar contido em uma planilha de gastos e de busca de resultados. 
@@ -99,7 +99,7 @@ Isto deve estar contido em uma planilha de gastos e de busca de resultados.
 Execução
 --------
 
-**Responsáveis**: coordenador de eventos
+**Responsáveis**: (@Giselle);
 
 A execução inclui tudo que é necessário para o cerimonial do evento. 
 
@@ -111,15 +111,16 @@ segundo o :ref:`calendário de reuniões`.
 
  
 .. Important::
-	É necessário que o coordenador de eventos preencha a `planilha de resultados de eventos`_
-	evento, especificando quantos livros do lançamento foram vendidos
-	e quem foi responsável por isso. 
+	É necessário que o coordenador de eventos preencha a `planilha de resultados de eventos`_, 
+	especificando quantos livros do lançamento foram vendidos. 
 
 .. _planilha de resultados de eventos: https://docs.google.com/spreadsheets/d/1Ixkt2ObKy0oKJKpnteWgw5TEGqtxYKPoYNNBeWEZnCs/edit?usp=sharing
 
 
 Repercussão e pós-produção
 --------------------------
+
+**Responsáveis**: gerente de marketing (@Daniel); @Bia
 
 Após os eventos, o material de divulgação deve ser arquivado.
 Este material deve estar acessível para o público por algum canal.
