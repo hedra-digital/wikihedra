@@ -91,6 +91,7 @@ Editorial:
     * Esforço/Custo por projeto
     * Novos projetos
     * Acompanhamento de impressão
+* Procedimentos
 
 Comercial:
 
