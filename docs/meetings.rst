@@ -67,6 +67,7 @@ Livraria:
 Marketing:
 
 * Campanhas em curso
+
     * Apresentação do conteúdo https://trello.com/b/ZTAEKswM/mkt-grupo-hedra
     * Gastos | Resultados 
 * Campanhas futuras por trimestre
