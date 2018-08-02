@@ -149,17 +149,34 @@ Todas essas tarefas devem ser feitas pelo Odoo.
 
 
 
+
+----------------------------
+Instruções para o backoffice
+----------------------------
+
+
+
+Cadastro
+--------
+
+
+Pedidos
+-------
+
+* Preparativos para eventos
+
+
+Recebimentos e devoluções
+-------------------------
+
 Acerto de mercadoria
 --------------------
 
-Preparativos para eventos
--------------------------
-
+-----------------------------------------------
 
 Acertos de consignação provisório
----------------------------------
-
 * Cadastrar os clientes
+
 
 
 
