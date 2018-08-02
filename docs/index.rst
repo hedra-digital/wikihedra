@@ -12,18 +12,26 @@ O que você vai encontrar
 
 
 
-Principais orientações
-----------------------
+Orientações para as editoras
+---------------------------------------
 
       .. toctree::
          :maxdepth: 2
 
-         livraria.rst
          financeiro.rst
          editorial.rst
          comercial.rst
          grafica.rst
          meetings.rst
+
+Orientações para a Casa Plana
+-----------------------------
+
+      .. toctree::
+         :maxdepth: 2
+
+         livraria.rst
+
 
 Outras orientações
 ------------------
