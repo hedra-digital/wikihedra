@@ -20,22 +20,19 @@ Isto significa que as operações da ``Livraria`` dependem dos processos do
 departamento comercial da Hedra. E as operações 
 dos `Eventos` dependem dos processos do Marketing. 
 
-As principais operações são:
+As principais operações dos do Comercial e do Marketing nesse contexto são:
 
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | ...        | ...      |          |
-+------------------------+------------+----------+----------+
-
++-----------------+-------------+
 | Comercial       | Marketing   |
-|-----------------|-------------|
++=================+=============+
 | Logística       | Campanha    |
++-----------------+-------------+
 | Negociação      | Resultados  |
++-----------------+-------------+
 | Infraestrutura  | Comumicação |
++-----------------+-------------+
+| Infraestrutura  | Comumicação |
++-----------------+-------------+
 
 .. Important::
 	A identidade da Casa Plana, porém, é uma responsabilidade da empresa Bia Bittencourt ME
@@ -45,36 +42,36 @@ Do fluxo de atividades e responsabilidades dos eventos
 ======================================================
 
 
-Um evento precisa ser:
+Um evento precisa, obviamente, ser:
 
 * proposto e aprovado;
 * divulgado;
 * executado;
 * e, por fim, repercutir. 
 
-Estas são as operações sob a responsabilidade do Marketing da Hedra, que deve 
-tocar a campanha, comunidar e apresentar resultados.
+O que não é óbvio é quem faz o que e como.
 
-É necessário ainda que o comercial se responsabilize pelas seguintes operações:
-
-* negociação com os envolvidos no evento;
-* logística para recebimento dos livros;
-* e acerto financeiro.
-
+No fluxograma abaixo, a primeira raia ou regua diz respeito ao Marketing
+e a segunda ao comercial.
 
 .. image:: ./bpmn/eventos.png
 
- 
+
+As principais tarefas e responsabilidades são:
 
 Proposta de eventos
 -------------------
 
-**Responsáveis**: coordenador de eventos
+**Responsáveis**: coordenador de eventos (@giselle)
 
-Os eventos podem ser propostos por todos. Eventos que ferem a 
-identidade da Plana serão recusados. 
+Os eventos podem ser propostos, porém, por qualquer pessoa, dentro ou
+fora da empresa. 
 
-Isto é feito pelo board do trelo `Eventos`_.
+As propostas são feitas formalmente no board do trelo `Eventos`_.
+
+.. Important::
+	Eventos que ferem a  identidade da Plana serão recusados. 
+
 
 .. _Evendos: https://trello.com/b/8SLdxvPT/plana-eventos
 

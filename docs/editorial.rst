@@ -1,35 +1,27 @@
-Editorial (planejamento e produção)
+===================================
+Checklists (planejamento e produção)
 ===================================
 
-Planejamento
-------------
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero
-eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no
-sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
-amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem ipsum dolor sit amet.
+Estes ``checklists`` devem ser usados na aba de  _issues_ de cada livro, diretamente no github `hedra-editora`_.
+
+.. _hedra-editora: https://github.com/hedra-editora 
 
 Produção
 --------
 
-### Abertura de projeto
+Abertura de projeto
+===================
 
 * Criar board no Odoo 
 * Definir data de fechamento e data de expiração (fim da pré-venda)
 * Cadastros de autor no Odoo
 * Arquivos iniciais em \PRODUCAO\ORIGINAIS
 
------------------------------------------------
 
-### Diagramação 
+
+Diagramação 
+===========
 
 * Definir formato
 * Criar repositótio no github: autor_título
@@ -38,15 +30,18 @@ Produção
 * Padronizações: Partes, Capítulos e sections; versaletes; palavras hifenizadas; travessão, meio-traço e traço; indentação; footnotes; quotes; links; bibliografia
 * Ajustes finos: geral
 
------------------------------------------------
 
-### Revisão
+
+Revisão
+=======
 
 * Viúvas e orfãs
 
------------------------------------------------
 
-### Capa
+
+Capa
+====
+
 
 * Recalcular Lombada
 * Conferir Formato (altura, largura e tamanho da orelha)
@@ -66,11 +61,15 @@ Se for bolso:
 * Verificar se obra não faz parte de subcoleção
 * Verifcar no miolo se constam resumos do autor, da obra e das pessoas envolvidas. Se houver subcoleção, verificar se existe também texto sobre.
 
------------------------------------------------
 
-### Página de crédito (fichatecnica.sty)
 
-Ex: \newcommand{\<COMANDO>}{<CONTEÚDO>} em fichatecnica.sty (na pasta do livros)
+Página de crédito (fichatecnica.sty)
+====================================
+
+.. raw:: latex
+
+	\newcommand{\<COMANDO>}{<CONTEÚDO>} %em fichatecnica.sty (na pasta do livros)
+
 
 Lista de comandos:
 
@@ -106,9 +105,10 @@ Lista de comandos:
 * \papelmiolo  				
 * \gramaturamiolo  				
 
------------------------------------------------
 
-### Fechamento
+
+Fechamento
+==========
 
 * verificar se código ID no final do livro bate com a versão do github
 * arquivo de miolo está em \ARQUIVOSGERAIS?
@@ -118,19 +118,20 @@ Lista de comandos:
 * checklist de página de crédito
 * Criar MO de lançamento 
 
------------------------------------------------
 
-### Cadastros
+
+Cadastros
+=========
 
 * Internos
 	* Odoo (@jorgesallum)
-	* Site (@anaclara)
+	* Site 
 * Indexadores (metadados)
-	* Mercado editorial (@anaclara)
+	* Mercado editorial
 	* Metabooks @(jorgesallum)
 * Integradores (distribuição, PoD, logística, pagamentos)
 	* Meta (@jorgesallum)
-	* Bookwire (@rodney)
+	* Bookwire 
 * Repositórios ("netflix")
 	* Nuvem de livros (@jorgesallum)
-	* Árvore de livros (@luiza)
+	* Árvore de livros 	
