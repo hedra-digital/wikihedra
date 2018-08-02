@@ -11,8 +11,6 @@ Estes ``checklists`` devem ser usados na aba de  issues de cada livro, diretamen
 
 .. _hedra-editora: https://github.com/hedra-editora 
 
-Produção
---------
 
 Abertura de projeto
 ===================
