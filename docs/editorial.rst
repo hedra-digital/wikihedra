@@ -3,7 +3,7 @@ Checklists (planejamento e produção)
 ===================================
 
 
-Estes ``checklists`` devem ser usados na aba de  _issues_ de cada livro, diretamente no github `hedra-editora`_.
+Estes ``checklists`` devem ser usados na aba de  issues de cada livro, diretamente no github `hedra-editora`_.
 
 .. _hedra-editora: https://github.com/hedra-editora 
 
