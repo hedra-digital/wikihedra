@@ -21,6 +21,7 @@ Orientações para as editoras
          financeiro.rst
          editorial.rst
          comercial.rst
+         mkt.rst
          grafica.rst
 
 
