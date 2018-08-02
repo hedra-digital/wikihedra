@@ -22,15 +22,12 @@ dos `Eventos` dependem dos processos do Marketing.
 
 As principais operações são:
 
-+-----------------+-------------+
+
 | Comercial       | Marketing   |
-+-----------------+-------------+
+|-----------------|-------------|
 | Logística       | Campanha    |
-+-----------------+-------------+
 | Negociação      | Resultados  |
-+-----------------+-------------+
 | Infraestrutura  | Comumicação |
-+-----------------+-------------+
 
 .. Important::
 	A identidade da Casa Plana, porém, é uma responsabilidade da empresa Bia Bittencourt ME
