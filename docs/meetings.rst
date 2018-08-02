@@ -85,6 +85,13 @@ Cursos:
 
 Editorial:
 
+* Cronograma https://goo.gl/VXSq4a
+* Editorias
+    * Aprovação de material/textos
+    * Esforço/Custo por projeto
+    * Novos projetos
+    * Acompanhamento de impressão
+
 Comercial:
 
 EdLaB:
