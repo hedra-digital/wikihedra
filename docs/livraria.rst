@@ -22,11 +22,14 @@ dos `Eventos` dependem dos processos do Marketing.
 
 As principais operações são:
 
-Name | Lunch order | Spicy      | Owes
-------- | ---------------- | ---------- | ---------:
-Joan  | saag paneer | medium | $11
-Sally  | vindaloo        | mild       | $14
-Erin   | lamb madras | HOT      | $5
++------------------------+------------+----------+----------+
+| Header row, column 1   | Header 2   | Header 3 | Header 4 |
+| (header rows optional) |            |          |          |
++========================+============+==========+==========+
+| body row 1, column 1   | column 2   | column 3 | column 4 |
++------------------------+------------+----------+----------+
+| body row 2             | ...        | ...      |          |
++------------------------+------------+----------+----------+
 
 | Comercial       | Marketing   |
 |-----------------|-------------|
