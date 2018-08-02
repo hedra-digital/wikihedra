@@ -59,7 +59,7 @@ Capa
 Se for bolso:
 
 * Rubricas de capa devem ter gênero: "Autor" "Autora"
-* Seguir modelo _Organização e tradução do grego_
+* Seguir modelo "Organização e tradução do grego"
 * Verificar se obra não faz parte de subcoleção
 * Verifcar no miolo se constam resumos do autor, da obra e das pessoas envolvidas. Se houver subcoleção, verificar se existe também texto sobre.
 
