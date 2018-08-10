@@ -95,4 +95,16 @@ Editorial:
 
 Comercial:
 
+* Informes do #editorial e #marketing
+* Revisão das metas
+     * Meta de venda
+     * Meta de consignação
+     * Meta de abertura de novos pontos
+* Definição de "oportunidades" padrão para o canal Consignação [começo do mês]
+* Análise dos Canais de Vendas
+* Top 10 (clientes e livros)
+* Análise do Estoque e livros em produção
+* Análise dos pedidos não atendidos (?)
+* Processos gerais
+
 EdLaB:
