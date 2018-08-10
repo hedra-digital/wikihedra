@@ -4,8 +4,9 @@ Reuniões
 
 .. _calendário de reuniões:
 
-Pautas fixas ficam no Odoo.
-https://goo.gl/cMktim
+Frentes de trabalho ficham no Trello:
+
+https://trello.com/b/QMTaUN6p/ciclo-geral-t3?menu=filter&filter=label:Comercial
 
 Duração de 30 min. 
 
