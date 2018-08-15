@@ -72,7 +72,6 @@ Marketing:
     * Apresentação do conteúdo https://trello.com/b/ZTAEKswM/mkt-grupo-hedra
     * Gastos | Resultados 
 * Campanhas futuras por trimestre
-* Propostas de ações de marketing para livrarias (com-mkt)
 * Rito de entrega de livros do editorial paro Marketing (edi-mkt)
 
 
