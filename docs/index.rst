@@ -40,6 +40,7 @@ Outras orientações
       .. toctree::
          :maxdepth: 2
 
+         odoo.rst
          meetings.rst
          samples.rst
          trello.rs
