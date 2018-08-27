@@ -35,7 +35,7 @@ https://goo.gl/hMocou
 Importações
 -----------
 
-https://docs.google.com/spreadsheets/d/1qlgZswGvCAg8nlAZhAiREqUNAeO1t5V0Ce6ViQU1qgY/edit#gid=0
+https://goo.gl/MVbvx1
 
 * Produtos
 
