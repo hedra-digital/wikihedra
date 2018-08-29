@@ -55,3 +55,33 @@ https://goo.gl/MVbvx1
 +------------------+-------+---------+------------------+
 | 0001             | 20    | ASUSTeK | 1                |
 +------------------+-------+---------+------------------+
+
+===============
+Odoo (Avançado)
+===============
+
+Como importar imagens 
+
+* Criar um arquivo com "External ID", "Name", "image".
+* Utilizar o script abaixo para rodar 
+* Rodar `sh script.sh arquivo.csv resultado.csv`
+* Importar arquivo
+
+```
+#!/bin/bash
+# Usage : script.sh infile.csv outfile.csv
+# infile.csv columns are : externalID, name, filename or identifier
+# infile.csv separator MUST BE |
+
+while IFS="|" read f1 f2 f3; do
+
+    # recopy external ID and name
+    echo -n $f1,\"$f2\", >> $2
+
+    # If third column represents the picture's filename (not the key), please use this command
+    cat $(echo ${f3} | tr -d '\r' | tr -d '"') | base64 --wrap=0 >> $2
+
+    #Carrier return at end of line
+    echo  >> $2
+done < $1
+```
