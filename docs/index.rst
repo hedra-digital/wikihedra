@@ -54,8 +54,11 @@ Ramais telefônicos
 * Financeiro: 203
 * Gráfica: 210
 * Gráfica/PCP: 206
-* Editorial/Jorge: 202
+* Editorial: 202
+* Jorge: 201
 * Comercial: 205
+
+* Para saber seu ramal, digite: "asterisco 87 asterisco" 
 
 
 
