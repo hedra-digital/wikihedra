@@ -138,9 +138,11 @@ Cadastros
 	* Nuvem de livros (@jorgesallum)
 	* Árvore de livros 	
 	
-RegExps
-=======
+regexp (expressões regulares)
+============================
 
 * Melhor site pra aprender
 https://regexr.com/
+
+* Selecionar conteúdo entre dois padrões, ignorando linhas (caso "separando categorias PNLD") 
 
