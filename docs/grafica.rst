@@ -3,6 +3,21 @@ Entrada em gráfica
 
 
 
+Metabooks 
+=========
+
+Entrada de metadados
+--------------------
+
+Para acessar o portal e cadastrar metadados, entre em 
+* https://www.metabooks.com/
+
+A senha está no arquivo de senhas padrão. https://goo.gl/Sk46zy
+
+Acessar, no Menu principal, "Gestão de títulos". Para criar um novo cadastro de livro, clicar em "Livro" (para cadastro de arquivo em formato físico) ou "Epub" (para cadastro de arquivo em formato digital).
+
+
+
 Meta Solutions 
 ==============
 
