@@ -146,3 +146,10 @@ https://regexr.com/
 
 * Selecionar conteúdo entre dois padrões, ignorando linhas (caso "separando categorias PNLD") 
 
+Comandos para edição de imagem
+------------------------------
+
+* `exiv2 *.png"` Comando para descobrir tamanho da imagem
+ * `exiv2 *.png | grep "File size"` Expressão para extrair apenas a informação "File size"
+ * `exiv2 *.png | grep "File size" >> size.sh` Expressão para gerar arquivo com as informações
+* `file *.png` Comando para dsecobrir tamanho e tipo da imagem. Vale para todo tipo de documento
