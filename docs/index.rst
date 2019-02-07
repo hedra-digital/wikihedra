@@ -25,6 +25,17 @@ Orientações para as editoras
          grafica.rst
 
 
+Procedimentos editoriais
+------------------------
+
+       diagramacao.rst
+       latex.rst  
+       revisao.rst
+       epub.rst
+       metadados.rst
+       publicacao.rst
+       marketing.rst
+
 Orientações para a Casa Plana
 -----------------------------
 
