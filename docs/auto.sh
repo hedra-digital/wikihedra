@@ -1,0 +1,12 @@
+touch odoo.rst
+touch modulos.rst
+touch comercial.rst
+touch atendimento.rst
+touch projetos.rst
+touch documentos.rst
+touch estoques.rst
+touch ecommerce.rst
+touch studio.rst
+touch contaazul.rst
+touch checkeditorial.rst
+touch checkmarketing.rst

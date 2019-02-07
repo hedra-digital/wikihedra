@@ -12,8 +12,8 @@ O que você vai encontrar
 
 
 
-Orientações para as editoras
----------------------------------------
+Orientações para as editoras (para terceiros)
+---------------------------------------------
 
       .. toctree::
          :maxdepth: 2
@@ -39,6 +39,36 @@ Procedimentos editoriais
        publicacao.rst
        marketing.rst
 
+
+Checklists
+----------
+
+    .. toctree::
+       :maxdepth: 2
+
+       checkeditorial.rst
+       checkmarketing.rst
+
+
+
+Odoo
+----
+    
+      .. toctree::
+         :maxdepth: 2
+
+         odoo.rst
+         modulos.rst
+         comercial.rst
+         atendimento.rst
+         projetos.rst
+         documentos.rst
+         estoques.rst
+         ecommerce.rst
+         studio.rst
+         contaazul.rst
+
+
 Orientações para a Casa Plana
 -----------------------------
 
@@ -54,7 +84,6 @@ Outras orientações
       .. toctree::
          :maxdepth: 2
 
-         odoo.rst
          meetings.rst
          samples.rst
          trello.rs
