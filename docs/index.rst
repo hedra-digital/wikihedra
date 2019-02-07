@@ -12,8 +12,8 @@ O que você vai encontrar
 
 
 
-Orientações para as editoras (para terceiros)
----------------------------------------------
+Orientações para terceiros
+--------------------------
 
       .. toctree::
          :maxdepth: 2
