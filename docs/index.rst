@@ -28,6 +28,9 @@ Orientações para as editoras
 Procedimentos editoriais
 ------------------------
 
+    .. toctree::
+       :maxdepth: 2
+       
        diagramacao.rst
        latex.rst  
        revisao.rst
