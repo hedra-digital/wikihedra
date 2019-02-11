@@ -48,6 +48,8 @@ O status do projeto podem ser:
 +==============+=======================================================+
 | Cogitação    | Temos uma ideia ou o recebemos algum original.        |
 +--------------+-------------------------------------------------------+
+| Negociação   | Acreditamos na ideia e precisamos firmar um contrato. |
++--------------+-------------------------------------------------------+
 | Planejamento | Assinamos o contrato, mas ainda não temos o original. |
 +--------------+-------------------------------------------------------+
 | Prelo        | Temos o original, mas não temos uma data ainda.       |
