@@ -39,6 +39,10 @@ Especificidades básicas de uma diagramação
 Planejamento editorial
 ----------------------
 
+O planejamento deve ser feito como projetos, no Odoo. Cada livro corresponde a uma tarefa. 
+
+O status do projeto podem ser:
+
 +--------------+-------------------------------------------------------+
 | Status       | Descrição                                             |
 +==============+=======================================================+
