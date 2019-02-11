@@ -35,4 +35,24 @@ Expressões regulares (rexgexp)
 Especificidades básicas de uma diagramação
 ==========================================
 
+----------------------
+Planejamento editorial
+----------------------
+
++--------------+-------------------------------------------------------+
+| Status       | Descrição                                             |
++--------------+-------------------------------------------------------+
+| Cogitação    | Temos uma ideia ou o recebemos algum original.        |
++--------------+-------------------------------------------------------+
+| Planejamento | Assinamos o contrato, mas ainda não temos o original. |
++--------------+-------------------------------------------------------+
+| Prelo        | Temos o original, mas não temos uma data ainda.       |
++--------------+-------------------------------------------------------+
+| Produção     | Temos uma data para lançamento.                       |
++--------------+-------------------------------------------------------+
+| [Arquivado]  | Perdemos o interesse temporariamente.                 |
++--------------+-------------------------------------------------------+
+| [Cancelado]  | Desistimos ou perdemos o contrato.                    |
++--------------+-------------------------------------------------------+
+
 
