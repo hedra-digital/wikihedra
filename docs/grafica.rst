@@ -32,8 +32,8 @@ A senha está no arquivo de senhas padrão. https://goo.gl/Sk46zy
 Meta Solutions 
 ==============
 
-Entrada de arquivos
--------------------
+Entrada de arquivos (ftp)
+-------------------------
 
 Para transferir arquivos utilize um protocolo `ftp`. Um bom programa para isso é o gFtp.
 O endereço é este: pod.metaslt.com.br. A senha é a mesma do portal.
