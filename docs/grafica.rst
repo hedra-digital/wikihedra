@@ -35,7 +35,7 @@ Meta Solutions
 Entrada de arquivos
 -------------------
 
-Para transferir arquivos utilize um protocolo fto. Um bom programa para isso é o gFtp.
+Para transferir arquivos utilize um protocolo ftp. Um bom programa para isso é o gFtp.
 O endereço é este: pod.metaslt.com.br. A senha é a mesma do portal.
 
 Os arquivos devem seguir um padrão de nome.
