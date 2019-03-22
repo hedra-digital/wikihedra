@@ -2,104 +2,14 @@ Wikihedra
 =========
 
 
-O que você vai encontrar
-------------------------
-
-* Descrição de processos internos
-* Manuais de uso de ferramentas 
-* Checklists
-* Orientações e manuais para terceiros
-
-
-
-Orientações para terceiros
---------------------------
-
+```
       .. toctree::
          :maxdepth: 2
 
-         financeiro.rst
-         editorial.rst
-         comercial.rst
-         mkt.rst
-         grafica.rst
-
-Orientações internas
-
-      .. toctree::
-         :maxdepth: 2
-
-         intfinanceiro.rst
-         inteditorial.rst
-         intcomercial.rst
-         intmkt.rst
-         intgrafica.rst
-         intecommerce.rst
+         Processos.rst
+```
 
 
-Procedimentos editoriais
-------------------------
-
-    .. toctree::
-       :maxdepth: 2
-       
-       diagramacao.rst
-       latex.rst  
-       revisao.rst
-       epub.rst
-       metadados.rst
-       publicacao.rst
-       marketing.rst
-
-
-Checklists
-----------
-
-    .. toctree::
-       :maxdepth: 2
-
-       checkeditorial.rst
-       checkmarketing.rst
-
-
-
-Odoo
-----
-    
-      .. toctree::
-         :maxdepth: 2
-
-         odoo.rst
-         modulos.rst
-         comercial.rst
-         atendimento.rst
-         projetos.rst
-         documentos.rst
-         estoques.rst
-         ecommerce.rst
-         studio.rst
-         contaazul.rst
-
-
-Orientações para a Casa Plana
------------------------------
-
-      .. toctree::
-         :maxdepth: 2
-
-         livraria.rst
-
-
-Outras orientações
-------------------
-
-      .. toctree::
-         :maxdepth: 2
-
-         meetings.rst
-         samples.rst
-         trello.rs
-         glossary.rst
 
 
 Ramais telefônicos
@@ -112,10 +22,86 @@ Ramais telefônicos
 * Editorial: 202
 * Jorge: 201
 * Comercial: 205
+* Para saber seu ramal, digite: "asterisco 87 asterisco".
 
-* Para saber seu ramal, digite: "asterisco 87 asterisco" 
+
+Como estrever este manual
+=========================
+
+Texto
+-----
+
+**Lorem** ipsum ``dolor`` sit `amet`, consetetur sadipscing elitr, sed diam nonumy eirmod
+tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+sanctus est Lorem ipsum dolor sit amet.
 
 
+Links
+-----
+
+This is a paragraph that contains `a link`_.
+
+.. _a link: https://uol.com.br/
+
+Listas e destaques
+------------------
+
+* Lista de itens 
+
+.. note ::
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+
+
+Outras possibilidades:
+
+.. Tip ::
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+
+
+.. Important :: 
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+
+
+Como colocar uma imagem ou video
+--------------------------------
+
+.. image:: cat.jpg
+
+``.. image:: cat.jpg``
+
+Índice
+------
+
+```
+      .. toctree::
+         :maxdepth: 2
+
+         livraria.rst
+```
+
+Definições
+----------
+
+Isto
+  ksdcsdcsd
+  sdkjsndcs
+
+Aquilo
+  skdcsdcsdcs
+  sdcscs
+
+:João:
+    gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
+
+:José:
+    gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
 
 
 
