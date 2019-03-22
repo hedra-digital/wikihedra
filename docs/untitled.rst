@@ -1,0 +1,3 @@
+intinstru.rst
+
+Instruções gerais

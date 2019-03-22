@@ -24,6 +24,18 @@ Orientações para terceiros
          mkt.rst
          grafica.rst
 
+Orientações internas
+
+      .. toctree::
+         :maxdepth: 2
+
+         intfinanceiro.rst
+         inteditorial.rst
+         intcomercial.rst
+         intmkt.rst
+         intgrafica.rst
+         intecommerce.rst
+
 
 Procedimentos editoriais
 ------------------------
