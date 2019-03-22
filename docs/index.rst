@@ -4,7 +4,7 @@ Wikihedra
 
 ```
       .. toctree::
-         :maxdepth: 2
+         :maxdepth: 4
 
          Processos.rst
 ```
