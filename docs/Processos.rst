@@ -16,6 +16,22 @@ Comercial
 Triagem de email  :: Email  :: Gmail
 ---------------------------------------------------------------
 
+
+.. image:: bpmn_triagem.png
+  
+
+A triagem de email não é resolução de problemas. É só o encaminhamento. 
+A triagem consiste em: 
+	* Separar os emails em colunas.
+	* Acertar o cadastro do cliente.
+	* Escolher o `tipo de tíquete` (quando possível ou quando se sabe).
+	* Escolher tags para os assuntos.
+        * Atribuir já às pessoas. (Isso pode ser feito automaticamente se a regra estiver muito clara.)
+
+.. Tip ::
+   As colunas são conjunto de problemas que não dizem respeito a quem tria.
+tgrqa	
+
 Atendimento comercial (helpdesk)  :: Helpdesk  :: Odoo
 ---------------------------------------------------------------
 
@@ -172,7 +188,7 @@ A triagem consiste em:
 	* SLA: 5 dias. 
 
 :Aguardando:
-
+	* SLA: 2 dias.
 
 
 Cursos 
