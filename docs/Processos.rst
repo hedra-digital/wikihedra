@@ -118,13 +118,29 @@ Consciliação  :: Financeiro > Contas  :: CA
 
 
 
-========
-Livraria
-========
+==========
+Casa Plana
+==========
+
+Atendimento comercial (helpdesk)  :: Helpdesk  :: Odoo
+---------------------------------------------------------------
+
+| Tipos de tíquete     | ​                                                                                                                                                                                   |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reclamação           | Quando a coisa está pegando fogo.  Explicar em nota interna o que aconteceu. Não esquecer de colocar estrelas.  Envolver mais pessoas na conversa. Resolva você mesmo até o final. |
+| Pedido de informação | Seguir templates de resposta. O estilo da empresa é a equipe que faz.                                                                                                              |
+| Problema             | Problemas administrativos. Ex: "Professor não recebeu o pagamento"; "Aviso importante: curso cancelado".                                                                           |
+| ​Cancelamento         | Ignorar. Não usar.                                                                                                                                                                 |
+| ​Agendamento          | Qualquer tipo de agendamento. Lançamento etc.                                                                                                                                      |
+| ​Administrativo       | Qualquer coisa que diz respeito a processos internos nossos.                                                                                                                       |
+| ​Notas gerais         | Avisos internos.                                                                                                                                                                   |
+| ​Prazo de produção    | Ignorar.                                                                                                                                                                           |
+| ​Status de produção   | Ignorar.                                                                                                                                                                           |
+| ​Pedidos              | Quando tem compra envolvida no meio. Ex: Acerto de consignação,  compra de livro etc.                                                                                              |
 
 
 Cursos 
-======
+------
 
 Planejamento  :: Projeto  :: Odoo
 ---------------------------------------------------------------
