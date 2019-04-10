@@ -122,6 +122,8 @@ Consciliação  :: Financeiro > Contas  :: CA
 Casa Plana
 ==========
 
+Marketing
+=========
 
 Triagem de email  :: helpdesk :: Odoo  :: Gmail
 ---------------------------------------------------------------
@@ -134,40 +136,10 @@ A triagem consiste em:
 	* Acertar o cadastro do cliente.
 	* Escolher o `tipo de tíquete` (quando possível ou quando se sabe).
 	* Escolher tags para os assuntos.
-      * Atribuir já às pessoas. (Isso pode ser feito automaticamente se a regra estiver muito clara.)
+        * Atribuir já às pessoas. (Isso pode ser feito automaticamente se a regra estiver muito clara.)
 
-+----------------------+---------------------------------------------------------------------+
-| Tipos de tíquete     | ​                                                                    |
-+----------------------+---------------------------------------------------------------------+
-| Reclamação           | Quando a coisa está pegando fogo.                                   |
-|                      | Explicar em nota interna o que aconteceu.                           |
-|                      | Não esquecer de colocar estrelas.                                   |
-|                      | Envolver mais pessoas na conversa.                                  |
-|                      | Resolva você mesmo até o final.                                     |
-+----------------------+---------------------------------------------------------------------+
-| Pedido de informação | Seguir templates de resposta. O estilo da empresa                   |
-|                      | é a equipe que faz.                                                 |
-+----------------------+---------------------------------------------------------------------+
-| Problema             | Problemas administrativos. Ex: "Professor não recebeu o pagamento"; |
-|                      | "Aviso importante: curso cancelado".                                |
-+----------------------+---------------------------------------------------------------------+
-| ​Cancelamento         | Ignorar. Não usar.                                                  |
-+----------------------+---------------------------------------------------------------------+
-| ​Agendamento          | Qualquer tipo de agendamento. Lançamento etc.                       |
-+----------------------+---------------------------------------------------------------------+
-| ​Administrativo       | Qualquer coisa que diz respeito a processos internos nossos.        |
-+----------------------+---------------------------------------------------------------------+
-| ​Notas gerais         | Avisos internos.                                                    |
-+----------------------+---------------------------------------------------------------------+
-| ​Prazo de produção    | Ignorar.                                                            |
-+----------------------+---------------------------------------------------------------------+
-| ​Status de produção   | Ignorar.                                                            |
-+----------------------+---------------------------------------------------------------------+
-| ​Pedidos              | Quando tem compra envolvida no meio. Ex: Acerto de consignação,     |
-|                      | compra de livro etc.                                                |
-+----------------------+---------------------------------------------------------------------+
-
-As colunas são conjunto de problemas que não dizem respeito a quem tria.
+.. Tip ::
+   As colunas são conjunto de problemas que não dizem respeito a quem tria.
 
 :Fazer:
 	* Por onde entram os emails, os recados telefônicos, os compromissos que vêem de fora. Sempre uma solicitação externa a ser resolvida por nossa equipe interna. 
@@ -191,7 +163,7 @@ As colunas são conjunto de problemas que não dizem respeito a quem tria.
 	* SLA: 3 dias. 
 
 :Clientes:
-    * Clientes da loja e do ecommerce.
+        * Clientes da loja e do ecommerce.
 	* A equipe responsável é a de chão de loja.
 	* SLA: 4 dias. 
 
