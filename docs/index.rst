@@ -9,6 +9,9 @@ Wikihedra
 Teste
 :::
 
+      Odoo_admin.rst
+
+
 
 Como estrever este manual
 =========================
