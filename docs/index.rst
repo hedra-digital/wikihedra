@@ -5,6 +5,9 @@ Wikihedra
       .. toctree::
          :maxdepth: 4
 
+:::info
+Teste
+:::
 
 
 Como estrever este manual
