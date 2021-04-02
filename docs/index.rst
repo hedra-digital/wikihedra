@@ -5,57 +5,7 @@ Wikihedra
       .. toctree::
          :maxdepth: 4
 
-         Processos.rst
 
-
-
-
-
-Ramais telefônicos
-------------------
-
-* Casa Plana: 204
-* Financeiro: 203
-* Gráfica: 210
-* Gráfica/PCP: 206
-* Editorial: 202
-* Jorge: 201
-* Comercial: 205
-* Para saber seu ramal, digite: "asterisco 87 asterisco".
-
-
-Atalhos
--------
-
-.. odoo-shortcuts:
-
-Atalhos/Shortcuts
------------------
-
-https://goo.gl/hMocou
-
-
-+--------------------------------+---------+----------------+
-| Função                         | Linux   | Função         |
-+================================+=========+================+
-| Gravar/salvar registro         | ALT + s | CTRL + ATL + s |
-+--------------------------------+---------+----------------+
-| Editar um registro (_A_daptar) | ALT + a | CTRL + ALT + a |
-+--------------------------------+---------+----------------+
-| Descartar (_J_unk)             | ALT + j | CTRL + ALT + j |
-+--------------------------------+---------+----------------+
-| Criar um novo registro         | ALT + c | CTRL + ALT + c |
-+--------------------------------+---------+----------------+
-| Abrir modo lista               | ALT + l | CTRL + ALT + l |
-+--------------------------------+---------+----------------+
-| Abrir modo kanban              | ALT + k | CTRL + ALT + k |
-+--------------------------------+---------+----------------+
-| Abrir registro anterior        | ALT + p | CTRL + ALT + p |
-+--------------------------------+---------+----------------+
-| Abrir registro posterior       | ALT + n | CTRL + ALT + n |
-+--------------------------------+---------+----------------+
-| Ir para menu principal         | ALT + h | CTRL + ALT + h |
-+--------------------------------+---------+----------------+
 
 Como estrever este manual
 =========================
